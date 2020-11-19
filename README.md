@@ -1,1 +1,3 @@
 # code-rain
+
+![](./rain.gif)
