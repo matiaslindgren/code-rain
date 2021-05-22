@@ -1,6 +1,8 @@
 # code-rain
 
-![](./rain.gif)
+<video loop controls playsinline muted autoplay
+    <source src="rain.webm" type="video/webm">
+</video>
 
 ## Usage
 
