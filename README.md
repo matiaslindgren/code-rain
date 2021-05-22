@@ -1,8 +1,10 @@
 # code-rain
 
+<div>
 <video loop controls playsinline muted autoplay
-    <source src="rain.webm" type="video/webm">
+    <source src="https://github.com/matiaslindgren/code-rain/raw/main/rain.webm" type="video/webm">
 </video>
+</div>
 
 ## Usage
 
